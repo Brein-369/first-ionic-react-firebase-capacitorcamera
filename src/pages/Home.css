@@ -1,0 +1,21 @@
+.text-center {
+    text-align: center;
+}
+.flex-center {
+    flex: auto;
+
+}
+
+.background-color {
+    background-color: red;
+}
+.background-color-blue {
+    background-color: blue;
+}
+.justify-center {
+    justify-content: center;
+}
+
+.align-right {
+    text-align: right;
+}
