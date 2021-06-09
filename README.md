@@ -1,0 +1,1 @@
+# first-ionic-react-firebase-capacitorcamera
